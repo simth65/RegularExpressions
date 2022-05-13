@@ -1,2 +1,2 @@
-# RegularExpressionsExample
-Regular expressions example
+# RegularExpressions
+Regular expressions examples
